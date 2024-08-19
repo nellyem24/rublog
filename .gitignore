@@ -1,0 +1,15 @@
+.DS_Store
+*~
+*.swp
+.vscode
+
+Cargo.lock
+target
+*.rs.bk
+
+.env
+.env.toml
+examples
+dist
+
+__pycache__
