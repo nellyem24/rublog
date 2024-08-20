@@ -1,5 +1,9 @@
 # Graphql Services Server - tide + async-graphql
 
+## TODO
+
+* Implement frontend
+
 ## MongoDB data
 
 MongoDB data(include structure & documents) file is `/data/surfer-dev.sql`.
